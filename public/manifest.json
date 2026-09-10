@@ -1,0 +1,14 @@
+{
+  "name": "Aviões por perto",
+  "short_name": "Aviões",
+  "description": "Tracking de aviões próximos em tempo real, com dados ADS-B abertos.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070b10",
+  "theme_color": "#070b10",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
